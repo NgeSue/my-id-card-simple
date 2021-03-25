@@ -1,6 +1,6 @@
 # my_id_card
 
-That display ID-card information
+That displays ID-card information
 
 ## Getting Started
 
